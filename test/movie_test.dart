@@ -11,6 +11,8 @@ duration: 120,
 price: 50000,
 isShowing: true,
 ticketQuantity: 0,
+coverImage: 'test_cover.jpg', 
+description: 'Test movie description',
 );
 
 
