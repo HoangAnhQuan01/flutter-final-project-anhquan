@@ -10,6 +10,7 @@ title: 'Test',
 duration: 120,
 price: 50000,
 isShowing: true,
+ticketQuantity: 0,
 );
 
 
